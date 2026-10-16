@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(93, 216, 247);
+}
+
+.kepala {
+  margin-top: center;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: rgb(3, 3, 194);
+  color: white;
+  padding: 8px;
+}
+
+.kotak {
+  background-color: rgb(3, 250, 15);
+  padding: 50px;
+  margin-top: 25px;
+  text-align: center;
+}
+.gatau {
+  background-color: rgb(61, 94, 241);
+  margin-top: center;
+  padding: 2px;
+  color: white;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: darkblue;
+  color: white;
+  padding: 25px;
+  font-size: 20px;
+  margin-top: 100px;
+}
+
+.gambar-belakang {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 0 auto 20px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
